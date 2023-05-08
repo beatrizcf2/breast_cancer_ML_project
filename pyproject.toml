@@ -11,6 +11,8 @@ python = "^3.10"
 kaggle = "^1.5.13"
 python-dotenv = "^1.0.0"
 ipykernel = "^6.23.0"
+pandas = "^2.0.1"
+matplotlib = "^3.7.1"
 
 
 [build-system]
