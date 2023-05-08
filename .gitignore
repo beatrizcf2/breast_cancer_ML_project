@@ -1,0 +1,65 @@
+# Ignore files and directories for Mac OS X
+.DS_Store
+
+# Ignore Python cache files and directories
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environment files
+venv/
+env/
+*.pyc
+*.pyo
+
+# Ignore compiled binary files
+*.pyc
+*.pyd
+*.pyo
+*.pyw
+*.pyz
+*.pyzw
+
+# Ignore other files and directories
+.idea/
+.vscode/
+node_modules/
+logs/
+*.log
+*.gz
+*.zip
+*.rar
+*.tar
+*.tar.gz
+*.tgz
+*.jar
+*.war
+*.ear
+*.class
+*.exe
+*.dll
+*.obj
+*.so
+*.a
+*.lib
+*.dylib
+*.dSYM/
+*.log
+*.cache
+*.egg-info/
+*.egg
+*.pytest_cache/
+
+# Ignore data files
+data/
+/data
+*.csv
+*.xls
+*.xlsx
+*.sqlite
+*.db
